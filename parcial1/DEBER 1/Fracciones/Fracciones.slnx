@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Fracciones/Fracciones.vcxproj" Id="171a7559-2523-42f2-97f3-0af5fefdcd28" />
+</Solution>
