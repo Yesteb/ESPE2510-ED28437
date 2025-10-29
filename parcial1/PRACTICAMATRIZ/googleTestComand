@@ -1,0 +1,4 @@
+cmake .. -Dtest=on
+make -j8
+make test
+ctest --verbose
