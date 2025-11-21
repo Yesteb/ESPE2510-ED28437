@@ -1,0 +1,8 @@
+A1|General|sebastian perez|1005370158
+A2|General|sebastain perz|1003020342
+A3|General|Mateo Rodas|1729044485
+A4|General|Julio Sanchez|1729044485
+A5|General|JUan Ortiz|1729044485
+A7|General|JUan Ortiz|1729044485
+B1|Palco|juan ortega|1003020342
+B3|Palco|Julio Sanchez|1729044485
